@@ -1,0 +1,21 @@
+what is KNN======
+according to feature similarity for classification usually.
+For example: x1 = ear length, x2= sharpest of claws to classify dog or cat.
+How KNN======
+store all available cases and classify new cases based on a similarity measure
+what is K======
+number of nearest neighbors to include in the majority voting process.
+if k = 5, then a data point is classified by majority votes from its 5 nearest neighbors.
+how to choose K======
+choosing k is called parameter tuning, for better accuracy outcome.
+if k is too small, then there are lots bias. but if k is too big, the calculating process is too long, resource is demanding. usually k can be chosen as sqrt(n), n is the number of training data points, but n should be odd for votes.
+when to use KNN======
+when 1. the data is labeled and the data is noise free. and dataset is small since KNN is lazy learner, it doesn't learn a discrimative function etc. but when dataset is big, we can still use KNN on small sample for peeking on data.
+how to calculate distance======
+dist(d) = sqrt((x-a)^2 + (y-b)^2) if we have points (x, y), (a, b)
+rule of thumb: computes distance assuming normality (StandardScaler)
+step for KNN======
+1. choose k>0, and a new point
+2. select k entries in dataset closest to the new point
+3. find the most common classification of those entries (majority votes)
+4. we give the above 3 to the new point
