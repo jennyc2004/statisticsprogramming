@@ -1,0 +1,8 @@
+Naive Bayes Classifier
+what is Naive Bayes Classifier======
+based on Bayes theorem which gives the conditional probability of an event A given B.
+P(A|B) = P(B|A)P(A)/P(B)
+when is NB used======
+face recognition, email spam identify, medical diag, news category, shopping buy or not.
+Advantage======
+easy, less training data, scalable, fast, not sensitive to irrelevant features
