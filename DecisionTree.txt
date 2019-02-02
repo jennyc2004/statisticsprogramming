@@ -1,0 +1,20 @@
+Decision Tree:
+Machine learning-> smarter: learn, predict, decide, remember, analyze, recognize
+Machine learning is an application of artificial intelligence where the system gets the ability to automatically learn and improve based on experience.
+what is Decision Tree======
+a tree shaped diagram used to determine a course of action. Each branch of the tree represents a possible, occurrence or reaction.
+Problems can solve======
+classification: determine a set of logical if-then conditions to classify problems.
+regression: when target variable is numerical or continous. each split is made based on SSE
+advantage======
+simple to understand and interpret, little effort for data preparation, both numerical and categorical data, non linear parameters don't effect its performance.
+disadvantage======
+overfitting, high variance(model can get unstable due to small variation in data), low biased tree(complicated tree tends to have low bias which is difficult to work with new data).
+Entropy======
+the measure of randomness in the dataset, root has the biggest entropy.sum(pi*log2(pi))
+information gain======
+decrease in entropy after one split. So the split is determined by the max information gain.
+
+
+
+
