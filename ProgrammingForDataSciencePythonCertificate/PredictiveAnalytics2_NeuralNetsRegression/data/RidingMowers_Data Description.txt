@@ -1,0 +1,7 @@
+Source: Data courtesy of Dean Wichern.	
+	
+Income:	Annual income in $000
+Lot Size:	In thousands of sq. feet
+Ownership:	Whether the resident owns a riding mower or not
+	
+(c) 2016 Galit Shmueli and Peter Bruce	

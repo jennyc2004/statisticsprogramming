@@ -1,0 +1,15 @@
+Source:  Compiled from eBay.com for the period May-June 2004		
+		
+Variable descriptions are in comments appended to column head cells.		
+		
+	Category :	Category of the auctioned item.
+	currancy :	
+	sellerRating :	a rating by eBay, as a function of the number of "good" and "bad" transactions the seller had on eBay.
+	Duration :	Number of days the auction lasted (set by seller at auction start)
+	endDay :	Day of week that the auction closed
+	ClosePrice :	Price item sold at (converted into USD)
+	OpenPrice :	Initial price set by the seller (converted into USD)
+	Competitive? :	whether the auction had a single bid (0) or more (1)
+		
+		
+(c) 2016 Galit Shmueli and Peter Bruce		

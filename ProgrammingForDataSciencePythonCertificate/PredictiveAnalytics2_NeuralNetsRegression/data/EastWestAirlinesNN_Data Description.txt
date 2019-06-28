@@ -1,0 +1,50 @@
+East-West Airlines has entered into a partnership with the wireless phone company Telcon to sell the latter's service via direct mail. These are a 
+sample of data, provided so that the analyst can develop a model to classify East-West customers as to whether they purchase a wireless phone 
+service contract (target variable Phone_sale).
+
+Source: Based upon a real business case and real data; company names have been changed.
+(c) 2016 Galit Shmueli and Peter Bruce
+
+Field Name		Data Type	Max Data 	Raw Data or Telcom 	Description
+					Length		Created Field?
+--------------------------------------------------------------------------------------------------------------------
+ID#			NUMBER				Telcom			Unique ID
+
+Topflight		CHAR		1		Raw			Indicates whether flyer has attained elite 
+										"Topflight" status, 1 = yes, 0 = no
+
+Balance			NUMBER		8		Raw			Number of miles eligible for award travel
+
+Qual_miles		NUMBER		8		Raw			Number of miles counted as qualifying for 
+										Topflight status
+
+cc1_miles?		CHAR		1		Raw			Has member earned miles with airline freq. 
+										flyer credit card in the past 12 months (1=Yes/0=No)?
+
+cc2_miles?		CHAR		1		Raw			Has member earned miles with Rewards credit 
+										card in the past 12 months (1=Yes/0=No)?
+
+cc3_miles?		CHAR		1		Raw			Has member earned miles with Small Business 
+										credit card in the past 12 months (1=Yes/0=No)?
+
+Bonus_miles		NUMBER				Raw			Number of miles earned from non-flight bonus 
+										transactions in the past 12 months
+
+Bonus_trans		NUMBER				Raw			Number of non-flight bonus transactions in the 
+										past 12 months
+
+Flight_miles_12mo	NUMBER				Raw			Number of flight miles in the past 12 months
+
+Flight_trans_12		NUMBER				Raw			Number of flight transactions in the past 12 months
+
+Online_12		NUMBER				Raw			Number of online purchases within the past 12 months
+
+Email			CHAR		1		Raw			E-mail address on file. 1= yes, 0 =no?
+
+Club_member		NUMBER				Telcom			Member of the airline's club (paid membership), 1=yes, 0=no
+
+Any_cc_miles_12mo	NUMBER				Telcom			Dummy variable indicating whether member added miles on any 
+										credit card type within the past 12 months (1='Y', 0='N')
+
+Phone_sale		NUMBER				Telcom			Dummy variable indicating whether member purchased Telcom 
+										service as a result of the direct mail campaign (1=sale, 0=no sale)

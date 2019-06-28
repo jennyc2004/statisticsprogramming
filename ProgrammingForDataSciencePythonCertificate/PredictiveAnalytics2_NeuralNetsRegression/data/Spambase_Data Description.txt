@@ -1,0 +1,12 @@
+
+Variable Name			Description
+make				% of words in the e-mail that match "make"
+CAP_avg				average length of uninterrupted sequences of capital letters
+CAP_long			length of longest uninterrupted sequence of capital letters
+CAP_tot				total number of capital letters in the e-mail
+Spam				1 = spam 0 = not spam
+ 
+
+Source:  UCI Machine Learning Repository, HP database of emails
+
+(c) 2016 Galit Shmueli and Peter Bruce

@@ -1,0 +1,8 @@
+(c) 2016 Galit Shmueli and Peter Bruce						
+						
+Source: Statistics.com						
+						
+Variables						
+Experience - 		measures months of full-time system administrator experience					
+Training - 		measures the number of relevant training credits					
+Completed task		either Yes or No, according to whether or not the administrator	completed the tasks					

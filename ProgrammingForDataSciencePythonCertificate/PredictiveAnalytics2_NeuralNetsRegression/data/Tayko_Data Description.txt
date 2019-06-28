@@ -1,0 +1,22 @@
+Codelist
+				
+Var. #		Variable Name		Description				Variable Type		Code Description
+1.		US			Is it a US address?			binary			1: yes   0: no
+2 - 16		Source_*		Source catalog for the record		binary			1: yes   0: no
+		  			(15 possible sources)		
+17.		Freq.			Number of transactions in last 		numeric
+					year at source catalog		
+18.  		last_update_days_ago	How many days ago was last 		numeric
+					update to cust. record		
+19.  		1st_update_days_ago	How many days ago was 1st update 	numeric
+					to cust. record		
+20.		Web_order		Customer placed at least 1 order 	binary			1: yes   0: no
+					via web	
+21.		Gender=mal		Customer is male			binary			1: yes   0: no
+22.		Address_is_res		Address is a residence			binary			1: yes   0: no
+23.		Purchase		Person made purchase in test 		binary			1: yes   0: no
+					mailing	
+24.		Spending		Amount spent by customer in test 	numeric
+					mailing ($)		
+				
+(c) 2016 Galit Shmueli and Peter Bruce				
