@@ -1,0 +1,25 @@
+Overview
+Our mission is to give people the power to share and make the world more open and connected.
+Our business focuses on creating value for people, marketers, and developers.
+How We Create Value for People Who Use Facebook
+Our top priority is to build useful and engaging products that enable people to connect and share through mobile devices and personal computers. We also help people discover and learn about what is going on in the world around them, enable people to share their opinions, ideas, photos and videos, and other activities with audiences ranging from their closest friends to the public at large, and stay connected everywhere by accessing our products, including:
+
+Facebook. The Facebook mobile app and website enable people to connect, share, discover, and communicate with each other on mobile devices and personal computers. Facebook is free and available throughout the world. We had 890 million daily active users (DAUs) on average in December 2014 , an increase of 18% compared to December 2013 . We had 745 million  DAUs who accessed Facebook from a mobile device on average in December 2014 , an increase of 34% compared to December 2013.
+
+Instagram. Instagram is a mobile application that enables people to take photos or videos, customize them with filter effects, and share them with friends and followers in a photo feed or send them directly to friends.
+
+Messenger. Messenger is a mobile-to-mobile messaging application available on Android, iOS and Windows Phone devices. Messenger works similarly to texting (SMS) or online chat to enable people to reach others instantly and also seamlessly integrates with Facebook messaging functionality on personal computers.
+
+WhatsApp. WhatsApp Messenger is a cross-platform mobile messaging application that allows people to exchange messages on iOS, Android, BlackBerry, Windows Phone, and Nokia devices.
+
+How We Create Value for Marketers
+Facebook focuses on providing value for all kinds of marketers, including brand, direct response, small and medium-sized businesses, and developers. We help them achieve their business objectives, whether it is driving online sales, in-store sales, or awareness of their brand.
+
+We generate the substantial majority of our revenue from selling advertising placements to marketers. Our ads let marketers reach people on Facebook based on a variety of factors including age, gender, location, and interests. Marketers purchase ads that can appear in multiple places including in News Feed on mobile devices and personal computers, and on the right-hand side of personal computers.
+
+Our ad planning tools are designed to align with marketers' business goals. When marketers create an ad campaign on Facebook, they can specify their budget, marketing objectives and the types of people they want to reach. Facebook's ad serving technology then dynamically determines the best available ad to show each person based on those dimensions. Marketers can also use our platform's insights to measure and optimize both the in-store and online performance of their ad campaigns. These insights help marketers not only understand how their ads drove results but also help them make modifications to their ad campaigns to improve those results. In addition to ads on Facebook, marketers can buy ads on Instagram and on other websites and applications such as Audience Network, Atlas, and LiveRail.
+
+How We Create Value for Developers
+Facebook supports developersb efforts to build, grow, and monetize their mobile and web applications. First, we provide a set of development tools and application programming interfaces (APIs) that enable developers to easily integrate with Facebook to create mobile and web applications across platforms and devices. Second, we help developers grow their mobile and web applications by providing them with tools, such as mobile application ads or social plugins, to increase the exposure, distribution and engagement of such applications. By using our tools for sharing, messaging, invites, requests, and mobile application ads, developers have a number of ways to drive application discovery and user engagement. Finally, we help developers monetize their web applications by providing an online Payments infrastructure that enables developers to receive payments from people who use Facebook in an easy-to-use, secure, and trusted environment, as well as from our Audience Network, where developers are able to monetize their mobile applications by showing ads from Facebook advertisers within their application.
+
+We generate revenue from developers who use our Payments infrastructure to sell virtual and digital goods to people who use Facebook on personal computers. We also generate revenue from developers who choose to purchase ads from us, and we receive a portion of the revenue from developers who show ads from Facebook advertisers in their applications within our Audience Network.
