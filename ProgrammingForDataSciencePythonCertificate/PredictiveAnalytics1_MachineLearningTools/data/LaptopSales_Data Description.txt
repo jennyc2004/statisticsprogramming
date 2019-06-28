@@ -1,0 +1,14 @@
+Date	- purchase date
+Configuration - A numerical code representing a combination of screen size, battery life, RAM, etc. Each code corresponds to a particular combination.
+Customer Postcode - postcode in London of the customer
+Store Postcode - postcode in London of the store
+Retail Price - price of laptop in GBP
+Screen Size (Inches)	
+Battery Life (Hours)	
+RAM (GB)	
+Processor Speeds (GHz)	
+Integrated Wireless?	- whether the laptop has integrated wireless or not
+HD Size (GB)
+Bundled Applications? - whether the laptop comes with bundled applications or not
+customer X and	customer Y - X and Y geo coordinates for customer location. 
+store X and store Y - X and Y geo coordinates for store location.

@@ -1,0 +1,9 @@
+
+Fixed_charge		Fixed-charge coverage ratio (income/debt)
+RoR			Percent rate of return on capital
+Cost			Cost per KW capacity in place
+Load_factor		Annual load factor
+Demand_growth		Percent demand growth
+Sales			Sales (KWH use per year)
+Nuclear			Percent nuclear
+Fuel_Cost		Total fuel costs (cents per KWH)

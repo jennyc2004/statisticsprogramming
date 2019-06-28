@@ -1,0 +1,21 @@
+1.       S_CODE: starting airport’s code
+2.       S_CITY: starting city
+3.       E_CODE: ending airport’s code
+4.       E_CITY: ending city
+5.       COUPON: average number of coupons (a one-coupon flight is a non-stop flight, a two-coupon flight is a one stop flight, etc.) for that route
+6.       NEW: number of new carriers entering that route between Q3-96 and Q2-97
+7.       VACATION: whether a vacation route (Yes) or not (No); Florida and Las Vegas routes are generally considered vacation routes
+8.       SW: whether Southwest Airlines serves that route (Yes) or not (No)
+9.       HI: Herfindel Index – measure of market concentration (refer to BMGT 681)
+10.   S_INCOME: starting city’s average personal income
+11.   E_INCOME: ending city’s average personal income
+12.   S_POP: starting city’s population
+13.   E_POP: ending city’s population
+14.   SLOT: whether either endpoint airport is slot controlled or not; this is a measure of airport congestion
+15.   GATE: whether either endpoint airport has gate constraints or not; this is another measure of airport congestion
+16.   DISTANCE: distance between two endpoint airports in miles
+17.   PAX: number of passengers on that route during period of data collection
+18.   FARE: average fare on that route
+
+
+(c) 2016 Galit Shmueli and Peter Bruce
